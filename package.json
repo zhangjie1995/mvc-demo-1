@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "reset.css": "^2.0.2"
+  }
+}

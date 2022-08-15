@@ -1,0 +1,13 @@
+@import "./reset.css";
+body{
+    overflow: hidden;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.main>section{
+    width: 50vw;
+    height: 50vh;
+    border: 1px solid #ddd;
+}
